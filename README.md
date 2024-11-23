@@ -15,5 +15,5 @@ pythom creador_medidas.py
 
 Para realizar la concersión, debemos ejecutar:
 ```
-python programa_concersor.py
+python programa_conversor.py
 ```
