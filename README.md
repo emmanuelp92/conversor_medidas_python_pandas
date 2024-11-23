@@ -5,5 +5,5 @@ Programa realizado en Python, Pandas y Openpyxl. Donde crea y lee archivos Excel
 Para poder ejecutar este proyecto, después de clonarlo, en la carpeta debes realizar la siguiente instrucción:
 
 ```
-pip install -r requiments.txt
+pip install -r requirements.txt
 ```
