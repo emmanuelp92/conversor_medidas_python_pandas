@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 Para crear el archivo Excel con los centímetros, debemos ejecutar: 
 ```
-pythom creador_medidas.py
+pythom creador_excel.py
 ```
 
 Para realizar la concersión, debemos ejecutar:
